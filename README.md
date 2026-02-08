@@ -7,4 +7,4 @@ Salary: The target variable.
 Machine Learning Problem:
 The goal is to develop a predictive model that can estimate a candidate’s annual salary based on various input features.
 note book: https://colab.research.google.com/drive/1-pxakU2a5D-HWDZVtMZBJJQwChMuOh2l?usp=sharing
-<img width="794" height="679" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/7bfed469-2afa-46bd-ba29-3c5c1974e45d" />
+<img width="794" height="679" alt="diagram" src="https://github.com/user-attachments/assets/fcdbf5a2-082d-4ee6-8de3-cd52b4c2256f" />
